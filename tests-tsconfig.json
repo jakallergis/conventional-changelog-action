@@ -3,11 +3,11 @@
     "target": "es6",
     "module": "CommonJS",
     "moduleResolution": "Node",
-    "outDir": "./lib",
-    "rootDir": "./src",
+    "outDir": "./lib/__tests__",
+    "rootDir": "./__tests__",
     "strict": true,
     "noImplicitAny": true,
     "esModuleInterop": true
   },
-  "exclude": ["node_modules", "**/*.test.ts"]
+  "exclude": ["node_modules", "src"]
 }

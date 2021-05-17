@@ -1,0 +1,80 @@
+# Version 0.0.0 (2021-05-17)
+
+## Features
+- now also taking the git body into account ([a325c40](https://github.com/jakallergis/conventional-changelog-action/commit/a325c40316a625d456a41ed926b576ebb37005bf)))
+- basic implementation of fetching git messages ([f70ab56](https://github.com/jakallergis/conventional-changelog-action/commit/f70ab56f3a5a4e18c359769967866b7421c62ac8)))
+## Chores
+- added .idea folder ([9c9dc32](https://github.com/jakallergis/conventional-changelog-action/commit/9c9dc3219ec66911229409e57ab29676cef1858b)))
+- Merge pull request #2 from jakallergis/dependabot/npm_and_yarn/vercel/ncc-0.28.5 ([be3d661](https://github.com/jakallergis/conventional-changelog-action/commit/be3d6614649c877a99b95b3c06419ecd1a633b48)))
+- Merge pull request #3 from jakallergis/dependabot/npm_and_yarn/eslint-plugin-jest-24.3.6 ([38736f8](https://github.com/jakallergis/conventional-changelog-action/commit/38736f83161612a8206de1c51f80bf7d9f330d9a)))
+- Merge pull request #4 from jakallergis/dependabot/npm_and_yarn/types/jest-26.0.23 ([d7648cc](https://github.com/jakallergis/conventional-changelog-action/commit/d7648cc2404b418152078570971966d3b90a351d)))
+- Merge pull request #5 from jakallergis/dependabot/npm_and_yarn/typescript-4.2.4 ([9f9e819](https://github.com/jakallergis/conventional-changelog-action/commit/9f9e819483439a1a446456651a77cd2701a38b5b)))
+- Bump typescript from 4.1.3 to 4.2.4 ([2f1371a](https://github.com/jakallergis/conventional-changelog-action/commit/2f1371a134d6a2ad93cfd7ea61d5dcae2842d6e3)))
+- Bump @types/jest from 26.0.15 to 26.0.23 ([23c1112](https://github.com/jakallergis/conventional-changelog-action/commit/23c11128158351e006b4037ad2e69dee4c193359)))
+- Bump eslint-plugin-jest from 24.1.3 to 24.3.6 ([82583e5](https://github.com/jakallergis/conventional-changelog-action/commit/82583e590d7dd24bbd00224fc5c2bf74d13d72c1)))
+- Bump @vercel/ncc from 0.25.1 to 0.28.5 ([e0a8d4e](https://github.com/jakallergis/conventional-changelog-action/commit/e0a8d4e7166eca0aee8c57c338860907d5354075)))
+- Initial commit ([cfd6a3a](https://github.com/jakallergis/conventional-changelog-action/commit/cfd6a3a897596dd1af47194001543eebf94ffe0c)))
+# Version 0.0.0 (2021-05-17)
+
+## Features
+- now also taking the git body into account ([a325c40](https://github.com/jakallergis/conventional-changelog-action/commit/a325c40316a625d456a41ed926b576ebb37005bf)))
+- basic implementation of fetching git messages ([f70ab56](https://github.com/jakallergis/conventional-changelog-action/commit/f70ab56f3a5a4e18c359769967866b7421c62ac8)))
+## Chores
+- added .idea folder ([9c9dc32](https://github.com/jakallergis/conventional-changelog-action/commit/9c9dc3219ec66911229409e57ab29676cef1858b)))
+- Merge pull request #2 from jakallergis/dependabot/npm_and_yarn/vercel/ncc-0.28.5 ([be3d661](https://github.com/jakallergis/conventional-changelog-action/commit/be3d6614649c877a99b95b3c06419ecd1a633b48)))
+- Merge pull request #3 from jakallergis/dependabot/npm_and_yarn/eslint-plugin-jest-24.3.6 ([38736f8](https://github.com/jakallergis/conventional-changelog-action/commit/38736f83161612a8206de1c51f80bf7d9f330d9a)))
+- Merge pull request #4 from jakallergis/dependabot/npm_and_yarn/types/jest-26.0.23 ([d7648cc](https://github.com/jakallergis/conventional-changelog-action/commit/d7648cc2404b418152078570971966d3b90a351d)))
+- Merge pull request #5 from jakallergis/dependabot/npm_and_yarn/typescript-4.2.4 ([9f9e819](https://github.com/jakallergis/conventional-changelog-action/commit/9f9e819483439a1a446456651a77cd2701a38b5b)))
+- Bump typescript from 4.1.3 to 4.2.4 ([2f1371a](https://github.com/jakallergis/conventional-changelog-action/commit/2f1371a134d6a2ad93cfd7ea61d5dcae2842d6e3)))
+- Bump @types/jest from 26.0.15 to 26.0.23 ([23c1112](https://github.com/jakallergis/conventional-changelog-action/commit/23c11128158351e006b4037ad2e69dee4c193359)))
+- Bump eslint-plugin-jest from 24.1.3 to 24.3.6 ([82583e5](https://github.com/jakallergis/conventional-changelog-action/commit/82583e590d7dd24bbd00224fc5c2bf74d13d72c1)))
+- Bump @vercel/ncc from 0.25.1 to 0.28.5 ([e0a8d4e](https://github.com/jakallergis/conventional-changelog-action/commit/e0a8d4e7166eca0aee8c57c338860907d5354075)))
+- Initial commit ([cfd6a3a](https://github.com/jakallergis/conventional-changelog-action/commit/cfd6a3a897596dd1af47194001543eebf94ffe0c)))
+# Version 0.0.0 (2021-05-17)
+
+## Features
+- now also taking the git body into account ([a325c40](https://github.com/{owner}/{repo}/commit/a325c40316a625d456a41ed926b576ebb37005bf)))
+- basic implementation of fetching git messages ([f70ab56](https://github.com/{owner}/{repo}/commit/f70ab56f3a5a4e18c359769967866b7421c62ac8)))
+## Chores
+- added .idea folder ([9c9dc32](https://github.com/{owner}/{repo}/commit/9c9dc3219ec66911229409e57ab29676cef1858b)))
+- Merge pull request #2 from jakallergis/dependabot/npm_and_yarn/vercel/ncc-0.28.5 ([be3d661](https://github.com/{owner}/{repo}/commit/be3d6614649c877a99b95b3c06419ecd1a633b48)))
+- Merge pull request #3 from jakallergis/dependabot/npm_and_yarn/eslint-plugin-jest-24.3.6 ([38736f8](https://github.com/{owner}/{repo}/commit/38736f83161612a8206de1c51f80bf7d9f330d9a)))
+- Merge pull request #4 from jakallergis/dependabot/npm_and_yarn/types/jest-26.0.23 ([d7648cc](https://github.com/{owner}/{repo}/commit/d7648cc2404b418152078570971966d3b90a351d)))
+- Merge pull request #5 from jakallergis/dependabot/npm_and_yarn/typescript-4.2.4 ([9f9e819](https://github.com/{owner}/{repo}/commit/9f9e819483439a1a446456651a77cd2701a38b5b)))
+- Bump typescript from 4.1.3 to 4.2.4 ([2f1371a](https://github.com/{owner}/{repo}/commit/2f1371a134d6a2ad93cfd7ea61d5dcae2842d6e3)))
+- Bump @types/jest from 26.0.15 to 26.0.23 ([23c1112](https://github.com/{owner}/{repo}/commit/23c11128158351e006b4037ad2e69dee4c193359)))
+- Bump eslint-plugin-jest from 24.1.3 to 24.3.6 ([82583e5](https://github.com/{owner}/{repo}/commit/82583e590d7dd24bbd00224fc5c2bf74d13d72c1)))
+- Bump @vercel/ncc from 0.25.1 to 0.28.5 ([e0a8d4e](https://github.com/{owner}/{repo}/commit/e0a8d4e7166eca0aee8c57c338860907d5354075)))
+- Initial commit ([cfd6a3a](https://github.com/{owner}/{repo}/commit/cfd6a3a897596dd1af47194001543eebf94ffe0c)))
+# Version 0.0.01 (2021-05-17)
+
+## Features
+- now also taking the git body into account ([a325c40](https://github.com/jackyef/changelog-generator/commit/a325c40316a625d456a41ed926b576ebb37005bf)))
+- basic implementation of fetching git messages ([f70ab56](https://github.com/jackyef/changelog-generator/commit/f70ab56f3a5a4e18c359769967866b7421c62ac8)))
+## Chores
+- added .idea folder ([9c9dc32](https://github.com/jackyef/changelog-generator/commit/9c9dc3219ec66911229409e57ab29676cef1858b)))
+- Merge pull request #2 from jakallergis/dependabot/npm_and_yarn/vercel/ncc-0.28.5 ([be3d661](https://github.com/jackyef/changelog-generator/commit/be3d6614649c877a99b95b3c06419ecd1a633b48)))
+- Merge pull request #3 from jakallergis/dependabot/npm_and_yarn/eslint-plugin-jest-24.3.6 ([38736f8](https://github.com/jackyef/changelog-generator/commit/38736f83161612a8206de1c51f80bf7d9f330d9a)))
+- Merge pull request #4 from jakallergis/dependabot/npm_and_yarn/types/jest-26.0.23 ([d7648cc](https://github.com/jackyef/changelog-generator/commit/d7648cc2404b418152078570971966d3b90a351d)))
+- Merge pull request #5 from jakallergis/dependabot/npm_and_yarn/typescript-4.2.4 ([9f9e819](https://github.com/jackyef/changelog-generator/commit/9f9e819483439a1a446456651a77cd2701a38b5b)))
+- Bump typescript from 4.1.3 to 4.2.4 ([2f1371a](https://github.com/jackyef/changelog-generator/commit/2f1371a134d6a2ad93cfd7ea61d5dcae2842d6e3)))
+- Bump @types/jest from 26.0.15 to 26.0.23 ([23c1112](https://github.com/jackyef/changelog-generator/commit/23c11128158351e006b4037ad2e69dee4c193359)))
+- Bump eslint-plugin-jest from 24.1.3 to 24.3.6 ([82583e5](https://github.com/jackyef/changelog-generator/commit/82583e590d7dd24bbd00224fc5c2bf74d13d72c1)))
+- Bump @vercel/ncc from 0.25.1 to 0.28.5 ([e0a8d4e](https://github.com/jackyef/changelog-generator/commit/e0a8d4e7166eca0aee8c57c338860907d5354075)))
+- Initial commit ([cfd6a3a](https://github.com/jackyef/changelog-generator/commit/cfd6a3a897596dd1af47194001543eebf94ffe0c)))
+# Version 0.0.01 (2021-05-17)
+
+## Features
+- now also taking the git body into account ([a325c40](https://github.com/jackyef/changelog-generator/commit/a325c40316a625d456a41ed926b576ebb37005bf)))
+- basic implementation of fetching git messages ([f70ab56](https://github.com/jackyef/changelog-generator/commit/f70ab56f3a5a4e18c359769967866b7421c62ac8)))
+## Chores
+- added .idea folder ([9c9dc32](https://github.com/jackyef/changelog-generator/commit/9c9dc3219ec66911229409e57ab29676cef1858b)))
+- Merge pull request #2 from jakallergis/dependabot/npm_and_yarn/vercel/ncc-0.28.5 ([be3d661](https://github.com/jackyef/changelog-generator/commit/be3d6614649c877a99b95b3c06419ecd1a633b48)))
+- Merge pull request #3 from jakallergis/dependabot/npm_and_yarn/eslint-plugin-jest-24.3.6 ([38736f8](https://github.com/jackyef/changelog-generator/commit/38736f83161612a8206de1c51f80bf7d9f330d9a)))
+- Merge pull request #4 from jakallergis/dependabot/npm_and_yarn/types/jest-26.0.23 ([d7648cc](https://github.com/jackyef/changelog-generator/commit/d7648cc2404b418152078570971966d3b90a351d)))
+- Merge pull request #5 from jakallergis/dependabot/npm_and_yarn/typescript-4.2.4 ([9f9e819](https://github.com/jackyef/changelog-generator/commit/9f9e819483439a1a446456651a77cd2701a38b5b)))
+- Bump typescript from 4.1.3 to 4.2.4 ([2f1371a](https://github.com/jackyef/changelog-generator/commit/2f1371a134d6a2ad93cfd7ea61d5dcae2842d6e3)))
+- Bump @types/jest from 26.0.15 to 26.0.23 ([23c1112](https://github.com/jackyef/changelog-generator/commit/23c11128158351e006b4037ad2e69dee4c193359)))
+- Bump eslint-plugin-jest from 24.1.3 to 24.3.6 ([82583e5](https://github.com/jackyef/changelog-generator/commit/82583e590d7dd24bbd00224fc5c2bf74d13d72c1)))
+- Bump @vercel/ncc from 0.25.1 to 0.28.5 ([e0a8d4e](https://github.com/jackyef/changelog-generator/commit/e0a8d4e7166eca0aee8c57c338860907d5354075)))
+- Initial commit ([cfd6a3a](https://github.com/jackyef/changelog-generator/commit/cfd6a3a897596dd1af47194001543eebf94ffe0c)))

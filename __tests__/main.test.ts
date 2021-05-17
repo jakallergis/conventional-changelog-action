@@ -6,7 +6,7 @@ import {join} from 'path'
 test('test runs', () => {
   env['INPUT_MILLISECONDS'] = '500'
   const np = execPath
-  const ip = join(__dirname, '..', 'lib', 'main.js')
+  const ip = join(__dirname, '..', 'lib', 'src', 'main.js')
   const options: cp.ExecFileSyncOptions = {
     env
   }

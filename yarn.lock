@@ -1581,7 +1581,7 @@ eslint-plugin-eslint-comments@^3.2.0:
     escape-string-regexp "^1.0.5"
     ignore "^5.0.5"
 
-eslint-plugin-github@^4.1.1:
+eslint-plugin-github@^4.1.3:
   version "4.1.3"
   resolved "https://registry.yarnpkg.com/eslint-plugin-github/-/eslint-plugin-github-4.1.3.tgz#f84d2f7e848d38ba82eeadcb898328bd3d02e175"
   integrity sha512-90MZbFt61jO+hCprPAPH1VSLylQPsynmMId79z/fCGQEhm3qzbAkUG3NqhNK8ltWZfFbXFYuXB4S5BnNttYGhQ==

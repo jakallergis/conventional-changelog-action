@@ -4,21 +4,29 @@ import ICommit from '../models/ICommit'
 export default function getGitCommits(): ICommit[] {
   const output = cp
     .execSync(
-      `git log --format='%s----SHA_DELIMITER----%H----SHA_SHORT_DELIMITER----%h----COMMIT_DELIMITER----'`
+      `git log --format='%s----DELIMITER----%b----DELIMITER----%H----DELIMITER----%h----END_COMMIT----'`
     )
     .toString('utf-8')
 
   return output
-    .split('----COMMIT_DELIMITER----\n')
+    .split('----END_COMMIT----\n')
     .map(commit => {
-      const [fullMessage, shas] = commit.split('----SHA_DELIMITER----') || []
-      const [sha, shaShort] = shas?.split('----SHA_SHORT_DELIMITER----') || []
-      const messageSplit = fullMessage?.split(': ') || []
+      const sections = commit.split('----DELIMITER----') || []
+      const fullMessage = sections[0]
+      const body = sections[1]
+      const sha = sections[2]
+      const shaShort = sections[3]
+
+      const mSplit = fullMessage?.split(': ')
+      const type = mSplit.length > 1 ? mSplit[0] : 'chore'
+      const message = (mSplit.length > 1 ? mSplit[1] : mSplit[0]) || '-'
+
       return {
+        message,
+        body,
         sha,
         shaShort,
-        message: messageSplit[1] || messageSplit[0],
-        type: messageSplit.length > 1 ? messageSplit[0] : 'chore'
+        type
       }
     })
     .filter(c => Boolean(c.sha))

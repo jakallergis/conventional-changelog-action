@@ -2,10 +2,12 @@ name: 'Your name here'
 description: 'Provide a description here'
 author: 'Your name or organization here'
 inputs:
-  milliseconds: # change this
+  repo:
     required: true
-    description: 'input description here'
-    default: 'default value if applicable'
+    description: 'The repo name. It will be used to create diff links'
+  owner:
+    required: true
+    description: 'The repo owner. It will be used to create diff links
 runs:
   using: 'node12'
   main: 'dist/index.js'
